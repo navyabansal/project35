@@ -36,7 +36,7 @@ function draw() {
   //add styles here
   textSize(20);
   fill("white");
-  text("Note: Press UP_ARROW to feed the drago milk!!", 200,50);
+  text("Note: Press UP_ARROW to feed drago milk!!", 200,50);
   text("Milk bottles remaining :" + foodS , 275, 100)
 }
 
